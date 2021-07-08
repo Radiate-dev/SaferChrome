@@ -1,0 +1,14 @@
+==============================
+How to use SaferChrome
+==============================
+
+1.Run the file "start.bat"
+2.Enjoy SaferChrome
+
+==============================
+What SaferChrome does
+==============================
+
+1.Free Secure Built-in VPN
+2.Free Secure Built-in Proxy Chain
+3.SaferChrome does not log any searches
